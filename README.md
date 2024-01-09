@@ -1,6 +1,6 @@
 # Web Applications (2023/2024)
 
-Material for the course of _Web Applications_ (in English) for the Master Degree in Cybersecurity at Politecnico di Torino.
+Material for the course of _Web Applications_ (in English) for the Master Degree in Cybersecurity at Politecnico di Torino, Italy.
 
 ## Course information
 
