@@ -10,8 +10,8 @@ Teachers: E. Masala, A. Servetti
 
 :house: [GitHub organization](https://github.com/polito-WA-2024)
 
-[:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pPEI67ZU8ghnVmEG6SMhT-Q)
+:arrow_forward: [Lecture recordings (YouTube)](https://www.youtube.com/playlist?list=PLuZyhAOPm9pPEI67ZU8ghnVmEG6SMhT-Q)
 
 :blue_book: [Course materials](https://github.com/polito-WA-2024/materials)
 
-:beginner: [aw-weeks](https://github.com/polito-AW-2024/aw-weeks)
+:beginner: [Lecture examples](https://github.com/polito-AW-2024/aw-weeks)
