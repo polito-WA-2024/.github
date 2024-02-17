@@ -22,7 +22,9 @@ Schedule, [**exam rules**](EXAM.md)
 
 ## Class hours
 
-See the _Schedule_ for detailed information and variations.
+**NB: Lab rooms do NOT have computers installed. To participate it is necessary to use YOUR OWN LAPTOP. It can be connected to the numerous electric plugs and to the WiFi network.**
+
+See the detailed _Schedule_ for each day topics and variations.
 
 | Day      | Hour        | Location | Type          | Note               |
 |----------|-------------|----------|---------------|--------------------|
@@ -30,4 +32,3 @@ See the _Schedule_ for detailed information and variations.
 | Tuesday  | 11:30-13:00 | Room 10i | Lab - Group 1 | starts on March 12 |
 | Tuesday  | 13:00-14:30 | Room 10i | Lab - Group 2 | starts on March 12 |
 | Thursday | 13:00-16:00 | Room 16  | Class         | Only some weeks    |
-
