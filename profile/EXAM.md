@@ -29,3 +29,7 @@ In the solution, it is recommended to employ all the good practices and sound pr
 Regarding the use of external libraries/templates/modules: as a general rule, the use of the techniques shown during the classes is preferred. The use of external modules and libraries for functions such as date/time handling, presentation aspects, predefined components (e.g., calendars), and similar items are allowed.
 
 If React requires certain programming patterns, those must be followed. For example, it is NOT allowed to use JQuery or JS directly to modify DOM content within the browser. It is not allowed to use server-side technologies other than those shown in the classes: Express, with SQLite to implement DB access, and the React internal web server must be used. Also, remember that the solution MUST be submitted in a way that can be readily tested by the teacher with the commands specified in the technical instructions.
+
+## Sample exams
+
+This is the first year the course is activated. There are no examples of past exams for this course. However, you can get an idea of the type of projects by looking at a similar course: [Web Applications I](https://elite.polito.it/teaching/past-courses/2023-01txy-wa1-iz/exam) from MSc in Computer Engineering. More details about the exam will be given during lectures.
