@@ -4,14 +4,14 @@ Material for the course of _Web Applications_ (in English) for the Master Degree
 
 ## Course information
 
-Detailed information about the course is available in the dedicated web pages.
+Teachers: E. Masala, A. Servetti
 
-| Course | Teacher | Course website | YouTube | Exercises |
-|----------|-------|---------|---------|--------|
-| :gb: Web Applications  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pPEI67ZU8ghnVmEG6SMhT-Q) | [aw-weeks](https://github.com/polito-AW-2024/aw-weeks) |
-
-## Available repositories
+## Available material and repositories
 
 :house: [GitHub organization](https://github.com/polito-WA-2024)
 
+[:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pPEI67ZU8ghnVmEG6SMhT-Q)
+
 :blue_book: [Course materials](https://github.com/polito-WA-2024/materials)
+
+:beginner: [aw-weeks](https://github.com/polito-AW-2024/aw-weeks)
