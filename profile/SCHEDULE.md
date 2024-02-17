@@ -1,4 +1,5 @@
 
-| Date            | Time   | Type    | Topic                            | Video               |                                                                                                                                                                                                                                                                                                                                                  | Aula | Video                                 |
+| Date            | Time   | Type    | Topic                            | Video               | 
 |-----------------|--------|---------|----------------------------------|---------------------| 
-| Mon  4 Mar 2024 | 10:00  | Lecture | [Introduction to the course]()   | [:arrow_forward:]() | 
+| Mon  4 Mar 2024 | 10:00  | Lecture | [Introduction to the course]()   |                     |
+| ...             |        |         |                                  | [:arrow_forward:]() |
