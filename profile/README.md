@@ -14,7 +14,7 @@ Official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewG
 
 :house: [GitHub organization](https://github.com/polito-WA-2024)
 
-:arrow_forward: [Lecture recordings (YouTube)](https://www.youtube.com/playlist?list=PLuZyhAOPm9pPEI67ZU8ghnVmEG6SMhT-Q)
+:arrow_forward: [Lecture recordings (YouTube)]()
 
 :blue_book: [Course materials](https://github.com/polito-WA-2024/materials)
 
