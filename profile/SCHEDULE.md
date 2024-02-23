@@ -4,7 +4,7 @@ Detailed schedule for the course of _Web Applications_ (in English) for the [Mas
 
 Check regularly for potential changes.
 
-| Date            | Time   | Type    | Room  | Teacher | Topic                            | Video               | 
+| Date            | Time   | Type    | Room  | Teacher | Topic                            | Youtube Video               | 
 |-----------------|--------|---------|-------|---------| ---------------------------------|---------------------| 
 | Mon  4 Mar 2024 | 10:00  | Lecture |       | EM      | Introduction to the course   | :arrow_forward: |
 | Mon  4 Mar 2024 | 11:30  | Lecture |       | EM      | Intro to Javascript, Array and Strings |         |
