@@ -1,6 +1,6 @@
 # Web Applications (2023/2024)
 
-This section lists the software applications and the libraries used in the course "_Web Applications_" (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.
+This section lists the resources (software, libraries, documentation) used in the course "_Web Applications_" (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.
 
 ## Software In Use
 
@@ -12,5 +12,13 @@ This section lists the software applications and the libraries used in the cours
 - [git](https://git-scm.com)
 
 Additional libraries (e.g., React, Express, sqlite, ...) will be installed via npm.
+
+## Guides and documentation
+
+- Essential documentation around web technologies and development: [Mozilla Developer Network](https://developer.mozilla.org) (MDN)
+- React [official website](https://reactjs.org) and (beta) [documentation](https://beta.reactjs.org)
+- [Bootstrap 5.3](https://getbootstrap.com) and [React Bootstrap](https://react-bootstrap.github.io/)
+- To dive deep into JavaScript's secrets: [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) (2nd edition)
+- [The Modern JavaScript Tutorial](https://javascript.info)
 
 
