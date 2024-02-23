@@ -2,7 +2,7 @@
 
 This section lists the resources (software, libraries, documentation) used in the course "_Web Applications_" (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.
 
-## Software In Use
+## Software in use
 
 - [Node.js](https://nodejs.org/en/) 20.x (LTS) and npm: **NB**: use ONLY the LTS (long term support) version (even version number).
 - [Visual Studio Code](https://code.visualstudio.com)
