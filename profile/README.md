@@ -8,7 +8,7 @@ Teachers: E. Masala, A. Servetti
 
 Official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUW&p_a_acc=2024&p_header=S&p_lang=EN&multi=N)
 
-[Schedule](SCHEDULE.md), [**exam rules**](EXAM.md)
+[Schedule](/profile/SCHEDULE.md), [**exam rules**](/profile/EXAM.md)
 
 ## Available material and repositories
 
