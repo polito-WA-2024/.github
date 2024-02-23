@@ -28,7 +28,7 @@ See the detailed _Schedule_ for each day topics and variations.
 
 | Day      | Hour        | Location | Type          | Note                                                             |
 |----------|-------------|----------|---------------|------------------------------------------------------------------|
-| Monday   | 10:00-13:00 | Room R4  | Class         | Sometimes lab, check detailed [schedule](/profile/SCHEDULE.md)   |
+| Monday   | 10:00-13:00 | Room R4  | Lecture       | Sometimes lab, check detailed [schedule](/profile/SCHEDULE.md)   |
 | Tuesday  | 11:30-13:00 | Room 10i | Lab - Group 1 | lecture in first week, lab starts on March 12, 2024              |
 | Tuesday  | 13:00-14:30 | Room 10i | Lab - Group 2 | lecture in first week, lab starts on March 12, 2024              |
-| Thursday | 13:00-16:00 | Room 16  | Class         | Only some weeks, check detailed [schedule](/profile/SCHEDULE.md) |
+| Thursday | 13:00-16:00 | Room 16  | Lecture       | Only some weeks, check detailed [schedule](/profile/SCHEDULE.md) |
