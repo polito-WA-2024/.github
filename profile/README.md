@@ -5,9 +5,9 @@ Teachers: E. Masala, A. Servetti
 
 ## Course information
 
-[**Schedule**](/profile/SCHEDULE.md), [**exam rules**](/profile/EXAM.md), official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUW&p_a_acc=2024&p_header=S&p_lang=EN&multi=N)
+[**Schedule**](/profile/SCHEDULE.md), [**exam rules**](/profile/EXAM.md), official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUW&p_a_acc=2024&p_header=S&p_lang=EN&multi=N), [resources and software](/profile/SOFTWARE.md)
 
-## Available material and repositories
+## Available material and repositories specific to the course
 
 :house: Home: [github.com/polito-WA-2024](https://github.com/polito-WA-2024)
 
