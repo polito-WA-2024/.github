@@ -6,9 +6,9 @@ Check regularly for potential changes.
 
 | Date            | Time   | Type    | Room  | Teacher | Topic                            | Youtube Video               | 
 |-----------------|--------|---------|-------|---------| ---------------------------------|---------------------| 
-| Mon  4 Mar 2024 | 10:00  | Lecture |       | EM      | Introduction to the course   | :arrow_forward: |
-| Mon  4 Mar 2024 | 11:30  | Lecture |       | EM      | Intro to Javascript, Array and Strings |         |
-| Tue  5 Mar 2024 | 11:30  | Lecture |       | EM      | JS Exercises on Array and Strings |              |
-| Tue  5 Mar 2024 | 13:00  | Lecture |       | EM      | JS Objects and Functions |              |
-| Thu  7 Mar 2024 | 13:00  | Lecture |       | EM      | JS Exercises on Objects and Functions; this keyword |              |
-| Thu  7 Mar 2024 | 14:30  | Lecture |       | EM      | JS libraries, dependencies and security isssues |              |
+| Mon  4 Mar 2024 | 10:00  | Lecture | R4    | EM      | Introduction to the course   | :arrow_forward: |
+| Mon  4 Mar 2024 | 11:30  | Lecture | R4    | EM      | Intro to Javascript, Array and Strings |         |
+| Tue  5 Mar 2024 | 11:30  | Lecture | 10i   | EM      | JS Exercises on Array and Strings |              |
+| Tue  5 Mar 2024 | 13:00  | Lecture | 10i   | EM      | JS Objects and Functions |              |
+| Thu  7 Mar 2024 | 13:00  | Lecture | 16    | EM      | JS Exercises on Objects and Functions; this keyword |              |
+| Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | JS libraries, dependencies and security isssues |              |
