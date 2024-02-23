@@ -14,7 +14,7 @@ Check regularly for potential changes.
 | Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | JS libraries, dependencies and security isssues |              |
 | Mon 11 Mar 2024 | 10:00  | Lecture | R4    | EM      | Callbacks, functional programming |    |
 | Mon 11 Mar 2024 | 11:30  | Lecture | R4    | EM      | JS Exercises on functional programming, asynchronous callbacks |         |
-| Tue 12 Mar 2024 | 11:30  | Lab | 10i   | tbd      | Lab1, group1: getting started with node.js |              |
-| Tue 12 Mar 2024 | 13:00  | Lab | 10i   | tbd      | Lab1, group1: getting started with node.js |              |
+| Tue 12 Mar 2024 | 11:30  | Lab | 10i   | tbd      | Lab group1: getting started with node.js |              |
+| Tue 12 Mar 2024 | 13:00  | Lab | 10i   | tbd      | Lab group2: getting started with node.js |              |
 | Thu 14 Mar 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 14 Mar 2024 | 14:30  | - | - | - | *no activity* |  |
