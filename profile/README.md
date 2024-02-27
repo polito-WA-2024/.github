@@ -11,7 +11,7 @@ Teachers: E. Masala, A. Servetti
 
 :house: Home: [github.com/polito-WA-2024](https://github.com/polito-WA-2024)
 
-:arrow_forward: [Lecture recordings (YouTube)]()
+:arrow_forward: [Lecture recordings (YouTube)](https://www.youtube.com/playlist?list=PLuZyhAOPm9pO_bXADlRo_2m1JNohIW7qA)
 
 :blue_book: [Course materials](https://github.com/polito-WA-2024/materials)
 
