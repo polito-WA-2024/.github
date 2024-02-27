@@ -18,3 +18,4 @@ Check regularly for potential changes.
 | Tue 12 Mar 2024 | 13:00  | Lab | 10i   | tbd      | Lab group2: getting started with node.js |              |
 | Thu 14 Mar 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 14 Mar 2024 | 14:30  | - | - | - | *no activity* |  |
+| ... | | | | | |
