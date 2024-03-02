@@ -6,10 +6,10 @@ Check regularly for potential changes.
 
 | Date            | Time   | Type    | Room  | Teacher | Topic                            | Youtube Video               | 
 |-----------------|--------|---------|-------|---------| ---------------------------------|---------------------| 
-| Mon  4 Mar 2024 | 10:00  | Lecture | R4    | EM      | Introduction to the course   | :arrow_forward: |
-| Mon  4 Mar 2024 | 11:30  | Lecture | R4    | EM      | Intro to Javascript, Array and Strings |         |
-| Tue  5 Mar 2024 | 11:30  | Lecture | 10i   | EM      | JS Exercises on Array and Strings |              |
-| Tue  5 Mar 2024 | 13:00  | Lecture | 10i   | EM      | JS Objects and Functions |              |
+| Mon  4 Mar 2024 | 10:00  | Lecture | R4    | EM      | [Introduction to the course](https://github.com/polito-WA-2024/materials/blob/master/slide/00-intro-2024-WA.pdf)   | :arrow_forward: |
+| Mon  4 Mar 2024 | 11:30  | Lecture | R4    | EM      | [Intro to Javascript, Array and Strings](https://github.com/polito-WA-2024/materials/blob/main/slide/1-01-javascript-basics.pdf) |         |
+| Tue  5 Mar 2024 | 11:30  | Lecture | 10i   | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2024/aw-weeks/blob/main/week01/exercises/EXERCISES.md) |              |
+| Tue  5 Mar 2024 | 13:00  | Lecture | 10i   | EM      | [JS Objects and Functions](https://github.com/polito-WA-2024/materials/blob/main/slide/1-02-javascript-objects-functions.pdf) |              |
 | Thu  7 Mar 2024 | 13:00  | Lecture | 16    | EM      | JS Exercises on Objects and Functions; this keyword |              |
 | Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | JS libraries, dependencies and security isssues |              |
 | Mon 11 Mar 2024 | 10:00  | Lecture | R4    | EM      | Callbacks, functional programming |    |
