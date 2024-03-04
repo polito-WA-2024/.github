@@ -15,7 +15,7 @@ Teachers: E. Masala, A. Servetti
 
 :blue_book: [Course materials](https://github.com/polito-WA-2024/materials)
 
-:beginner: [Lecture examples](https://github.com/polito-AW-2024/aw-weeks)
+:beginner: [Lecture examples](https://github.com/polito-WA-2024/aw-weeks)
 
 ## Class hours
 
