@@ -10,8 +10,8 @@ Check regularly for potential changes.
 | Mon  4 Mar 2024 | 11:30  | Lecture | R4    | EM      | [Intro to Javascript, Array and Strings](https://github.com/polito-WA-2024/materials/blob/main/slide/1-01-javascript-basics.pdf) | Video [:arrow_forward:](https://youtu.be/szy703LAY1Y) |
 | Tue  5 Mar 2024 | 11:30  | Lecture | 10i   | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2024/aw-weeks/blob/main/week01/exercises/EXERCISES.md) |              |
 | Tue  5 Mar 2024 | 13:00  | Lecture | 10i   | EM      | [JS Objects and Functions](https://github.com/polito-WA-2024/materials/blob/main/slide/1-02-javascript-objects-functions.pdf) |              |
-| Thu  7 Mar 2024 | 13:00  | Lecture | 16    | EM      | JS Exercises on Objects and Functions; this keyword |              |
-| Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | JS libraries, dependencies and security isssues |              |
+| Thu  7 Mar 2024 | 13:00  | Lecture | 16    | EM      | [JS Exercises on Objects and Functions](https://github.com/polito-WA-2024/aw-weeks/blob/main/week01/exercises) ; [this keyword](https://github.com/polito-WA-2024/materials/blob/main/slide/1-03-javascript-this.pdf) |              |
+| Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | [JS libraries, dependencies and security isssues](https://github.com/polito-WA-2024/materials/blob/main/slide/1-04-javascript-libraries-packages.pdf) |              |
 | Mon 11 Mar 2024 | 10:00  | Lecture | R4    | EM      | Callbacks, functional programming |    |
 | Mon 11 Mar 2024 | 11:30  | Lecture | R4    | EM      | JS Exercises on functional programming, asynchronous callbacks |         |
 | Tue 12 Mar 2024 | 11:30  | Lab | 10i   | tbd      | Lab group1: getting started with node.js |              |
