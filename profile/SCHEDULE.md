@@ -24,4 +24,13 @@ Check regularly for potential changes.
 | Tue 19 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#2 group2: Node.js with database | |
 | Thu 21 Mar 2024 | 13:00  | Lecture | 16 | EM | Introduction to web applications. HTTP server and expressJS |  |
 | Thu 21 Mar 2024 | 14:30  | Lecture | 16 | EM | Building an HTTP API server |  |
+| Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | tbd      | Lab#3 group1: set-up of an API server | |
+| Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | tbd      | Lab#3 group2: set-up of an API server | |
+| Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | API Security | |
+| Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | Exercise: designing and implementing APIs | |
+| - | - | - | - | - | **EASTER HOLIDAYS** | |
+| Thu 4 Apr 2024 | 13:00  | - | - | - | *no activity* |  |
+| Thu 4 Apr 2024 | 14:30  | - | - | - | *no activity* |  |
+| Mon 9 Apr 2024 | 10:00  | Lecture | R4    | tbd | tbd | |
+| Mon 9 Apr 2024 | 11:30  | Lecture | R4    | tbd | tbd | |
 | ... | | | | | |
