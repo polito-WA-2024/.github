@@ -14,8 +14,8 @@ Check regularly for potential changes.
 | Thu  7 Mar 2024 | 14:30  | Lecture | 16    | EM      | [JS Exercises on Objects and Functions - using libraries](https://github.com/polito-WA-2024/aw-weeks/blob/main/week01/exercises) | Video [:arrow_forward:](https://youtu.be/_0JXNOgglQg) |
 | Mon 11 Mar 2024 | 10:00  | Lecture | R4    | EM      | [Callbacks, functional programming](https://github.com/polito-WA-2024/materials/blob/main/slide/1-05-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/PKdf9fAO8tk) |
 | Mon 11 Mar 2024 | 11:30  | Lecture | R4    | EM      | [JS Exercises on functional programming](https://github.com/polito-WA-2024/aw-weeks/blob/main/week02), [asynchronous callbacks](https://github.com/polito-WA-2024/materials/blob/main/slide/1-05-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/Y45YAbj7gY8) |
-| Tue 12 Mar 2024 | 11:30  | Lab | 10i   | AS      | Lab#1 group1: [Getting started with node.js](https://github.com/polito-WA-2024/materials/blob/main/labs/lab01-getting-started-node.pdf) | |
-| Tue 12 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2024/materials/blob/main/labs/lab01-getting-started-node.pdf) | |
+| Tue 12 Mar 2024 | 11:30  | Lab | 10i   | AS      | Lab#1 group1: [Getting started with node.js](https://github.com/polito-WA-2024/materials/blob/main/labs/lab01-getting-started-node.pdf) ([Solution](https://github.com/polito-WA-2024/lab01-node)) | |
+| Tue 12 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2024/materials/blob/main/labs/lab01-getting-started-node.pdf) ([Solution](https://github.com/polito-WA-2024/lab01-node)) | |
 | Thu 14 Mar 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 14 Mar 2024 | 14:30  | - | - | - | *no activity* |  |
 | Mon 18 Mar 2024 | 10:00  | Lecture | R4    | EM      | [JS Async Programming. Interfacing with SQLite](https://github.com/polito-WA-2024/materials/blob/main/slide/1-05-javascript-async-programming.pdf) | |
