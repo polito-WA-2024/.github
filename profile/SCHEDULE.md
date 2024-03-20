@@ -24,13 +24,17 @@ Check regularly for potential changes.
 | Tue 19 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#2 group2: [Node.js with database](https://github.com/polito-WA-2024/materials/blob/main/labs/lab02-node-database.pdf) | |
 | Thu 21 Mar 2024 | 13:00  | Lecture | 16 | EM | [Introduction to web applications](https://github.com/polito-WA-2024/materials/blob/main/slide/4-01-web-architecture.pdf). [HTTP server and expressJS](https://github.com/polito-WA-2024/materials/blob/main/slide/4-02-Express.pdf) |  |
 | Thu 21 Mar 2024 | 14:30  | Lecture | 16 | EM | [Building an HTTP API server](https://github.com/polito-WA-2024/materials/blob/main/slide/4-03-API.pdf) |  |
-| Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | tbd      | Lab#3 group1: set-up of an API server | |
-| Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | tbd      | Lab#3 group2: set-up of an API server | |
+| Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | EM      | Lab#3 group1: set-up of an API server | |
+| Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | EM      | Lab#3 group2: set-up of an API server | |
 | Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | [API Security](https://github.com/polito-WA-2024/materials/blob/main/slide/4-04-API-security.pdf) | |
 | Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | Exercise: designing and implementing APIs | |
 | - | - | - | - | - | **EASTER HOLIDAYS** | |
 | Thu 4 Apr 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 4 Apr 2024 | 14:30  | - | - | - | *no activity* |  |
-| Mon 9 Apr 2024 | 10:00  | Lecture | R4    | tbd | tbd | |
-| Mon 9 Apr 2024 | 11:30  | Lecture | R4    | tbd | tbd | |
+| Mon 8 Apr 2024 | 10:00  | Lecture | R4    | AS  | Introduction to browsers. Modern HTML. Introduction to CSS | |
+| Mon 8 Apr 2024 | 11:30  | Lecture | R4    | AS  | Modern CSS and frameworks | |
+| Tue 9 Apr 2024 | 10:00  | Lab | 10i   | tbd | Lab#4 group1: make server APIs more secure | |
+| Tue 9 Apr 2024 | 11:30  | Lab | 10i   | tbd | Lab#4 group2: make server APIs more secure | |
+| Thu 11 Apr 2024 | 13:00  | Lecture | 16 | tbd | JS in the browser, DOM, forms |  |
+| Thu 11 Apr 2024 | 14:30  | Lecture | 16 | tbd | Cross-site scripting (XSS) |  |
 | ... | | | | | |
