@@ -22,11 +22,11 @@ Check regularly for potential changes.
 | Mon 18 Mar 2024 | 11:30  | Lecture | R4    | EM      | [Promises. async and await keywords](https://github.com/polito-WA-2024/materials/blob/main/slide/1-05-javascript-async-programming.pdf) | |
 | Tue 19 Mar 2024 | 11:30  | Lab | 10i   | AS      | Lab#2 group1: [Node.js with database](https://github.com/polito-WA-2024/materials/blob/main/labs/lab02-node-database.pdf) | |
 | Tue 19 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#2 group2: [Node.js with database](https://github.com/polito-WA-2024/materials/blob/main/labs/lab02-node-database.pdf) | |
-| Thu 21 Mar 2024 | 13:00  | Lecture | 16 | EM | Introduction to web applications. HTTP server and expressJS |  |
-| Thu 21 Mar 2024 | 14:30  | Lecture | 16 | EM | Building an HTTP API server |  |
+| Thu 21 Mar 2024 | 13:00  | Lecture | 16 | EM | [Introduction to web applications](https://github.com/polito-WA-2024/materials/blob/main/slide/4-01-web-architecture.pdf). [HTTP server and expressJS](https://github.com/polito-WA-2024/materials/blob/main/slide/4-02-Express.pdf) |  |
+| Thu 21 Mar 2024 | 14:30  | Lecture | 16 | EM | [Building an HTTP API server](https://github.com/polito-WA-2024/materials/blob/main/slide/4-03-API.pdf) |  |
 | Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | tbd      | Lab#3 group1: set-up of an API server | |
 | Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | tbd      | Lab#3 group2: set-up of an API server | |
-| Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | API Security | |
+| Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | [API Security](https://github.com/polito-WA-2024/materials/blob/main/slide/4-04-API-security.pdf) | |
 | Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | Exercise: designing and implementing APIs | |
 | - | - | - | - | - | **EASTER HOLIDAYS** | |
 | Thu 4 Apr 2024 | 13:00  | - | - | - | *no activity* |  |
