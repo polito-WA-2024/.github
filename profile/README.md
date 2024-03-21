@@ -17,6 +17,8 @@ Teachers: E. Masala, A. Servetti
 
 :beginner: [Lecture examples](https://github.com/polito-WA-2024/aw-weeks)
 
+:eyes: [Lab code and solutions](https://github.com/polito-WA-2024/labs-code)
+
 ## Class hours
 
 **NB: Lab rooms do NOT have computers installed. To participate it is necessary to use YOUR OWN LAPTOP. It can be connected to the numerous electric plugs and to the WiFi network.**
