@@ -24,8 +24,8 @@ Check regularly for potential changes.
 | Tue 19 Mar 2024 | 13:00  | Lab | 10i   | AS      | Lab#2 group2: [Node.js with database](https://github.com/polito-WA-2024/materials/blob/main/labs/lab02-node-database.pdf) | |
 | Thu 21 Mar 2024 | 13:00  | Lecture | 16 | EM | [Introduction to web applications](https://github.com/polito-WA-2024/materials/blob/main/slide/4-01-web-architecture.pdf). [HTTP server and expressJS](https://github.com/polito-WA-2024/materials/blob/main/slide/4-02-Express.pdf) |  |
 | Thu 21 Mar 2024 | 14:30  | Lecture | 16 | EM | [Building an HTTP API server](https://github.com/polito-WA-2024/materials/blob/main/slide/4-03-API.pdf), [first example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week03/qa-server-v1) |  |
-| Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | EM      | Lab#3 group1: set-up of an API server | |
-| Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | EM      | Lab#3 group2: set-up of an API server | |
+| Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | EM      | Lab#3 group1: [Set-up of an API server with express](https://github.com/polito-WA-2024/materials/blob/main/labs/lab03-express.pdf) | |
+| Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | EM      | Lab#3 group2: [Set-up of an API server with express](https://github.com/polito-WA-2024/materials/blob/main/labs/lab03-express.pdf) | |
 | Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | [API Security](https://github.com/polito-WA-2024/materials/blob/main/slide/4-04-API-security.pdf) | |
 | Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | Exercise: designing and implementing APIs | |
 | - | - | - | - | - | **EASTER HOLIDAYS** | |
