@@ -27,7 +27,7 @@ Check regularly for potential changes.
 | Mon 25 Mar 2024 | 10:00  | **Lab** | R4    | EM      | Lab#3 group1: [Set-up of an API server with express](https://github.com/polito-WA-2024/materials/blob/main/labs/lab03-express.pdf) | |
 | Mon 25 Mar 2024 | 11:30  | **Lab** | R4    | EM      | Lab#3 group2: [Set-up of an API server with express](https://github.com/polito-WA-2024/materials/blob/main/labs/lab03-express.pdf) | |
 | Tue 26 Mar 2024 | 11:30  | **Lecture** | 10i   | EM      | [API Security](https://github.com/polito-WA-2024/materials/blob/main/slide/4-04-API-security.pdf) | |
-| Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | Exercise: designing and implementing APIs | |
+| Tue 26 Mar 2024 | 13:00  | **Lecture** | 10i   | EM      | [Exercise: designing and implementing APIs](https://github.com/polito-WA-2024/aw-weeks/tree/main/week04/qa-server) | |
 | - | - | - | - | - | **EASTER HOLIDAYS** | |
 | Thu 4 Apr 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 4 Apr 2024 | 14:30  | - | - | - | *no activity* |  |
