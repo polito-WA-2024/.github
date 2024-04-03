@@ -31,10 +31,10 @@ Check regularly for potential changes.
 | - | - | - | - | - | **EASTER HOLIDAYS** | |
 | Thu 4 Apr 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 4 Apr 2024 | 14:30  | - | - | - | *no activity* |  |
-| Mon 8 Apr 2024 | 10:00  | Lecture | R4    | AS  | Introduction to browsers. Modern HTML. Introduction to CSS | |
-| Mon 8 Apr 2024 | 11:30  | Lecture | R4    | AS  | Modern CSS and frameworks | |
-| Tue 9 Apr 2024 | 10:00  | Lab | 10i   | tbd | Lab#4 group1: make server APIs more secure | |
-| Tue 9 Apr 2024 | 11:30  | Lab | 10i   | tbd | Lab#4 group2: make server APIs more secure | |
+| Mon 8 Apr 2024 | 10:00  | Lecture | R4    | AS  | [Introduction to browsers.](https://github.com/polito-WA-2024/materials/blob/main/slide/2-01-browser-intro.pdf) [Modern HTML.](https://github.com/polito-WA-2024/materials/blob/main/slide/2-02-html.pdf) [Introduction to CSS.](https://github.com/polito-WA-2024/materials/blob/main/slide/2-03-css.pdf) | |
+| Mon 8 Apr 2024 | 11:30  | Lecture | R4    | AS  | [Modern CSS and frameworks.](https://github.com/polito-WA-2024/materials/blob/main/slide/2-03-css.pdf) | |
+| Tue 9 Apr 2024 | 10:00  | Lab | 10i   | tbd | Lab#4 group1: [Make server APIs more secure](https://github.com/polito-WA-2024/materials/blob/main/labs/lab04-API-server.pdf) | |
+| Tue 9 Apr 2024 | 11:30  | Lab | 10i   | tbd | Lab#4 group2: [Make server APIs more secure](https://github.com/polito-WA-2024/materials/blob/main/labs/lab04-API-server.pdf) | |
 | Thu 11 Apr 2024 | 13:00  | Lecture | 16 | tbd | JS in the browser, DOM, forms |  |
 | Thu 11 Apr 2024 | 14:30  | Lecture | 16 | tbd | Cross-site scripting (XSS) |  |
 | ... | | | | | |
