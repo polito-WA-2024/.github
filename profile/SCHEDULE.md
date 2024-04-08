@@ -35,6 +35,12 @@ Check regularly for potential changes.
 | Mon 8 Apr 2024 | 11:30  | Lecture | R4    | AS  | [Modern CSS and frameworks.](https://github.com/polito-WA-2024/materials/blob/main/slide/2-03-css.pdf) | Video [:arrow_forward:](https://youtu.be/qi3GAE4Qmyk) |
 | Tue 9 Apr 2024 | 11:30  | Lab | 10i   | EM | Lab#4 group1: [Make server APIs more secure](https://github.com/polito-WA-2024/materials/blob/main/labs/lab04-API-server.pdf) | |
 | Tue 9 Apr 2024 | 13:00  | Lab | 10i   | EM | Lab#4 group2: [Make server APIs more secure](https://github.com/polito-WA-2024/materials/blob/main/labs/lab04-API-server.pdf) | |
-| Thu 11 Apr 2024 | 13:00  | Lecture | 16 | tbd | JS in the browser, DOM, forms |  |
-| Thu 11 Apr 2024 | 14:30  | Lecture | 16 | tbd | Cross-site scripting (XSS) |  |
+| Thu 11 Apr 2024 | 13:00  | Lecture | 16 | EM | JS in the browser: DOM |  |
+| Thu 11 Apr 2024 | 14:30  | Lecture | 16 | EM | JS in the browser: forms and events |  |
+| Mon 15 Apr 2024 | 10:00  | Lab | R4    | AS  | Lab#5 group1: Getting started with HTML, CSS, Bootstrap |  |
+| Mon 15 Apr 2024 | 11:30  | Lab | R4    | AS  | Lab#5 group2: Getting started with HTML, CSS, Bootstrap |  |
+| Tue 16 Apr 2024 | 11:30  | Lab | 10i   | AS | Lab#6 group1: JS in the browser | |
+| Tue 16 Apr 2024 | 13:00  | Lab | 10i   | AS | Lab#6 group2: JS in the browser | |
+| Thu 18 Apr 2024 | 13:00  | Lecture | 16 | EM | Cross-site scripting (XSS) |  |
+| Thu 18 Apr 2024 | 14:30  | Lecture | 16 | EM | Fetch API, modules |  |
 | ... | | | | | |
