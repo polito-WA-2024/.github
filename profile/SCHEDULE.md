@@ -41,8 +41,8 @@ Check regularly for potential changes.
 | Mon 15 Apr 2024 | 11:30  | Lab | R4    | AS  | [Lab#5 group2: Getting started with HTML, CSS, Bootstrap](https://github.com/polito-WA-2024/materials/blob/main/labs/lab05-html-css.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab05-html-css))|  |
 | Tue 16 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#6 group1: JS in the browser](https://github.com/polito-WA-2024/materials/blob/main/labs/lab06-js-browser.pdf) | |
 | Tue 16 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#6 group2: JS in the browser](https://github.com/polito-WA-2024/materials/blob/main/labs/lab06-js-browser.pdf) | |
-| Thu 18 Apr 2024 | 13:00  | Lecture | 16 | EM | [Cross-site scripting (XSS)](https://github.com/polito-WA-2024/materials/blob/main/slide/2-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2024/materials/blob/main/slide/2-06-fetch.pdf) |  |
-| Thu 18 Apr 2024 | 14:30  | Lecture | 16 | EM | [Modules](https://github.com/polito-WA-2024/materials/blob/main/slide/1-06-javascript-modules.pdf). [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week06). |  |
+| Thu 18 Apr 2024 | 13:00  | Lecture | 16 | EM | [Cross-site scripting (XSS)](https://github.com/polito-WA-2024/materials/blob/main/slide/2-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2024/materials/blob/main/slide/2-06-fetch.pdf) | Video [:arrow_forward:](https://youtu.be/htSEZ1RQPqk) |
+| Thu 18 Apr 2024 | 14:30  | Lecture | 16 | EM | [Modules](https://github.com/polito-WA-2024/materials/blob/main/slide/1-06-javascript-modules.pdf). [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/fvCpYtiH0L0) |
 | Mon 22 Apr 2024 | 10:00  | Lab | R4    | EM  | Introduction to React |  |
 | Mon 22 Apr 2024 | 11:30  | Lab | R4    | EM  | JSX, Components, state |  |
 | Tue 23 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#7 group1: fetch e XSS | |
