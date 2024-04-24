@@ -45,8 +45,8 @@ Check regularly for potential changes.
 | Thu 18 Apr 2024 | 14:30  | Lecture | 16 | EM | [Modules](https://github.com/polito-WA-2024/materials/blob/main/slide/1-06-javascript-modules.pdf). [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/fvCpYtiH0L0) |
 | Mon 22 Apr 2024 | 10:00  | Lab | R4    | EM  | [Introduction to React](https://github.com/polito-WA-2024/materials/blob/main/slide/3-01-React-intro.pdf) | Video [:arrow_forward:](https://youtu.be/dK9gWgu9rvw) |
 | Mon 22 Apr 2024 | 11:30  | Lab | R4    | EM  | [Elements, Components, JSX](https://github.com/polito-WA-2024/materials/blob/main/slide/3-02-Elements-and-JSX.pdf). ([Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week07)) | Video [:arrow_forward:](https://youtu.be/bLQwSH8tSAw) |
-| Tue 23 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#7 group1: fetch e XSS](https://github.com/polito-WA-2024/materials/blob/main/labs/lab07-fetch-xss.pdf) | |
-| Tue 23 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#7 group2: fetch e XSS](https://github.com/polito-WA-2024/materials/blob/main/labs/lab07-fetch-xss.pdf) | |
+| Tue 23 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#7 group1: fetch e XSS](https://github.com/polito-WA-2024/materials/blob/main/labs/lab07-fetch-xss.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab07-fetch-xss)) | |
+| Tue 23 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#7 group2: fetch e XSS](https://github.com/polito-WA-2024/materials/blob/main/labs/lab07-fetch-xss.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab07-fetch-xss)) | |
 | Thu 25 Apr 2024 | 13:00  | - | - | - | *no activity (national holiday)* |  |
 | Thu 25 Apr 2024 | 14:30  | - | - | - | *no activity (national holiday)* |  |
 | Mon 29 Apr 2024 | 10:00  | Lecture | R4 | EM  | [Handling state in React components](https://github.com/polito-WA-2024/materials/blob/main/slide/3-03-Components-and-state-management.pdf) |  |
