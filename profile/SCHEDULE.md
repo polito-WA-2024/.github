@@ -51,7 +51,7 @@ Check regularly for potential changes.
 | Thu 25 Apr 2024 | 14:30  | - | - | - | *no activity (national holiday)* |  |
 | Mon 29 Apr 2024 | 10:00  | Lecture | R4 | EM  | [Handling state in React components](https://github.com/polito-WA-2024/materials/blob/main/slide/3-03-Components-and-state-management.pdf) | Video [:arrow_forward:](https://youtu.be/wS0B7MOaxPk) |
 | Mon 29 Apr 2024 | 11:30  | Lecture | R4 | EM  | [React state example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week08/react-qa-state) | Video [:arrow_forward:](https://youtu.be/zwSGWx6I18o) |
-| Tue 30 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#8 group1: setting up React, simple components] | |
-| Tue 30 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#8 group2: setting up React, simple components] | |
+| Tue 30 Apr 2024 | 11:30  | Lab | 10i   | AS | [Lab#8 group1: setting up React, simple components](https://github.com/polito-WA-2024/materials/blob/main/labs/lab08-getting-started-react.pdf) | |
+| Tue 30 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#8 group2: setting up React, simple components](https://github.com/polito-WA-2024/materials/blob/main/labs/lab08-getting-started-react.pdf) | |
 | Thu 2 May 2024 | 13:00  | Lecture | 16 | EM | [React forms](https://github.com/polito-WA-2024/materials/blob/main/slide/3-04-Forms.pdf) |  |
 | Thu 2 May 2024 | 14:30  | Lecture | 16 | EM | [React forms example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week08/react-qa-forms) |  |
