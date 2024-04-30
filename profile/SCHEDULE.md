@@ -59,5 +59,5 @@ Check regularly for potential changes.
 | Mon 6 May 2024 | 11:30  | Lab | R4 | AS  | Lab#9 group2: React state | |
 | Tue 7 May 2024 | 11:30  | Lab | 10i   | AS | Lab#10 group1: React forms | |
 | Tue 7 May 2024 | 13:00  | Lab | 10i   | AS | Lab#10 group2: React forms | |
-| Thu 9 May 2024 | 13:00  | Lecture | 16 | EM | React Context. React Router. | |
+| Thu 9 May 2024 | 13:00  | Lecture | 16 | EM | [React Context](https://github.com/polito-WA-2024/materials/blob/main/slide/3-05-Context.pdf). React Router. | |
 | Thu 9 May 2024 | 14:30  | Lecture | 16 | EM | Examples. | |
