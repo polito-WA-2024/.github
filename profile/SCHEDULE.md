@@ -55,3 +55,9 @@ Check regularly for potential changes.
 | Tue 30 Apr 2024 | 13:00  | Lab | 10i   | AS | [Lab#8 group2: setting up React, simple components](https://github.com/polito-WA-2024/materials/blob/main/labs/lab08-getting-started-react.pdf) | |
 | Thu 2 May 2024 | 13:00  | Lecture | 16 | EM | [React forms](https://github.com/polito-WA-2024/materials/blob/main/slide/3-04-Forms.pdf) |  |
 | Thu 2 May 2024 | 14:30  | Lecture | 16 | EM | [React forms example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week08/react-qa-forms) |  |
+| Mon 6 May 2024 | 10:00  | Lab | R4 | AS  | Lab#9 group1: React state | |
+| Mon 6 May 2024 | 11:30  | Lab | R4 | AS  | Lab#9 group2: React state | |
+| Tue 7 May 2024 | 11:30  | Lab | 10i   | AS | Lab#10 group1: React forms | |
+| Tue 7 May 2024 | 13:00  | Lab | 10i   | AS | Lab#10 group2: React forms | |
+| Thu 9 May 2024 | 13:00  | Lecture | 16 | EM | React Context. React Router. | |
+| Thu 9 May 2024 | 14:30  | Lecture | 16 | EM | Examples. | |
