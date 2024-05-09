@@ -63,8 +63,8 @@ Check regularly for potential changes.
 | Thu 9 May 2024 | 14:30  | Lecture | 16 | EM | [Router example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week09/react-qa-router) | |
 | Mon 13 May 2024 | 10:00  | Lecture | R4 | EM  | CORS, security and the 2-server issue | |
 | Mon 13 May 2024 | 11:30  | Lecture | R4 | EM  | Introduction to component lifecycle | |
-| Tue 14 May 2024 | 11:30  | Lab | 10i   | AS | Lab#11 group1: React routes | |
-| Tue 14 May 2024 | 13:00  | Lab | 10i   | AS | Lab#11 group2: React routes | |
+| Tue 14 May 2024 | 11:30  | Lab | 10i   | AS | [Lab#11 group1: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
+| Tue 14 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#11 group2: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
 | Thu 16 May 2024 | 13:00  | Lecture | 16 | EM | useEffect hook. | |
 | Thu 16 May 2024 | 14:30  | Lecture | 16 | EM | Examples. | |
 
