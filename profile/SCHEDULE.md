@@ -61,7 +61,7 @@ Check regularly for potential changes.
 | Tue 7 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#10 group2: React forms](https://github.com/polito-WA-2024/materials/blob/main/labs/lab10-forms.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab10-forms)) | |
 | Thu 9 May 2024 | 13:00  | Lecture | 16 | EM | [React Context](https://github.com/polito-WA-2024/materials/blob/main/slide/3-05-Context.pdf) and [example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week09/context). [React Router.](https://github.com/polito-WA-2024/materials/blob/main/slide/3-06-React-Router.pdf) | Video [:arrow_forward:](https://youtu.be/dXL5OX1dXpQ) |
 | Thu 9 May 2024 | 14:30  | Lecture | 16 | EM | [Router example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week09/react-qa-router) | Video [:arrow_forward:](https://youtu.be/vgTAu_trRCI) |
-| Mon 13 May 2024 | 10:00  | Lecture | R4 | EM  | [CORS, security and the N-server issue](https://github.com/polito-WA-2024/materials/blob/main/slide/4-05-CORS_security.pdf) | |
+| Mon 13 May 2024 | 10:00  | Lecture | R4 | EM  | [CORS, security and the N-server issue](https://github.com/polito-WA-2024/materials/blob/main/slide/4-05-CORS_and_security.pdf) | |
 | Mon 13 May 2024 | 11:30  | Lecture | R4 | EM  | [Introduction to component lifecycle](https://github.com/polito-WA-2024/materials/blob/main/slide/3-07-LifeCycle.pdf) | |
 | Tue 14 May 2024 | 11:30  | Lab | 10i   | AS | [Lab#11 group1: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
 | Tue 14 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#11 group2: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
