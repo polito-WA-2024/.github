@@ -63,8 +63,8 @@ Check regularly for potential changes.
 | Thu 9 May 2024 | 14:30  | Lecture | 16 | EM | [Router example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week09/react-qa-router) | Video [:arrow_forward:](https://youtu.be/vgTAu_trRCI) |
 | Mon 13 May 2024 | 10:00  | Lecture | R4 | EM  | [CORS, security and the N-server issue](https://github.com/polito-WA-2024/materials/blob/main/slide/4-05-CORS_and_security.pdf) | Video [:arrow_forward:](https://youtu.be/q6KK6C6PJd4) |
 | Mon 13 May 2024 | 11:30  | Lecture | R4 | EM  | [Introduction to component lifecycle](https://github.com/polito-WA-2024/materials/blob/main/slide/3-07-LifeCycle.pdf), with [examples](https://github.com/polito-WA-2024/aw-weeks/tree/main/week10/lifecycle_slides_examples) | Video [:arrow_forward:](https://youtu.be/W9GXMyUs-c0) |
-| Tue 14 May 2024 | 11:30  | Lab | 10i   | AS | [Lab#11 group1: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
-| Tue 14 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#11 group2: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) | |
+| Tue 14 May 2024 | 11:30  | Lab | 10i   | AS | [Lab#11 group1: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab11-router)) | |
+| Tue 14 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#11 group2: React routes](https://github.com/polito-WA-2024/materials/blob/main/labs/lab11-router.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab11-router)) | |
 | Thu 16 May 2024 | 13:00  | Lecture | 16 | EM | [useEffect hook.](https://github.com/polito-WA-2024/materials/blob/main/slide/3-07-LifeCycle.pdf) | Video [:arrow_forward:](https://youtu.be/ynNNuMzidOg) |
 | Thu 16 May 2024 | 14:30  | Lecture | 16 | EM | [examples](https://github.com/polito-WA-2024/aw-weeks/tree/main/week10) | Video [:arrow_forward:](https://youtu.be/EdGlfjj_71o) |
 | Mon 20 May 2024 | 10:00  | Lecture | R4 | EM  | useEffect advanced usage | |
