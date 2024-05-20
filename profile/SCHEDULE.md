@@ -68,7 +68,7 @@ Check regularly for potential changes.
 | Thu 16 May 2024 | 13:00  | Lecture | 16 | EM | [useEffect hook.](https://github.com/polito-WA-2024/materials/blob/main/slide/3-07-LifeCycle.pdf) | Video [:arrow_forward:](https://youtu.be/ynNNuMzidOg) |
 | Thu 16 May 2024 | 14:30  | Lecture | 16 | EM | [examples](https://github.com/polito-WA-2024/aw-weeks/tree/main/week10) | Video [:arrow_forward:](https://youtu.be/EdGlfjj_71o) |
 | Mon 20 May 2024 | 10:00  | Lecture | R4 | EM  | [useEffect advanced usage: optimistic update](https://github.com/polito-WA-2024/materials/blob/main/slide/3-07-LifeCycle.pdf), with an [example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week11) | Video [:arrow_forward:](https://youtu.be/WsJATN3ZzlQ) |
-| Mon 20 May 2024 | 11:30  | Lecture | R4 | EM  | [Introduction to authentication](https://github.com/polito-WA-2024/materials/blob/main/slide/4-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/6HYRgF_eLko) |
+| Mon 20 May 2024 | 11:30  | Lecture | R4 | EM  | [useEffect example finished. Introduction to authentication](https://github.com/polito-WA-2024/materials/blob/main/slide/4-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/6HYRgF_eLko) |
 | Tue 21 May 2024 | 11:30  | Lab | 10i   | AS | [Lab#12 group1: loading data from server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab12-loading-data-from-server.pdf) | |
 | Tue 21 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#12 group2: loading data from server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab12-loading-data-from-server.pdf) | |
 | Thu 23 May 2024 | 13:00  | - | - | - | *no activity* |  |
