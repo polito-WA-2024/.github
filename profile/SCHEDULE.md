@@ -76,6 +76,21 @@ Check regularly for potential changes.
 | Mon 27 May 2024 | 10:00  | Lecture | R4 | EM  | [Authentication](https://github.com/polito-WA-2024/materials/blob/main/slide/4-06-Authentication.pdf) |  |
 | Mon 27 May 2024 | 11:30  | Lecture | R4 | EM  | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12) | |
 | Tue 28 May 2024 | 11:30  | Lab | 10i   | EM | [Lab#13 group1: complete client server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab13-complete-client-server.pdf) | |
-| Tue 28 May 2024 | 13:00  | Lab | 10i   | EM/AS | [Lab#13 group2: complete client server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab13-complete-client-server.pdf)  | |
+| Tue 28 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#13 group2: complete client server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab13-complete-client-server.pdf)  | |
 | Thu 30 May 2024 | 13:00  | Lecture | 16 | EM  | Authorization and tokens. |  |
 | Thu 30 May 2024 | 14:30  | Lecture | 16 | EM | Example |  |
+| - | - | - | - | - | **The following part may be subject to change** |  |
+| Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Deployment(?), discussion of exam rules, wrap up | |
+| Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Deployment(?), discussion of exam rules, wrap up | |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | Lab#14 group1: add authentication |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | Lab#14 group2: add authentication |  |
+| Thu 6 Jun 2024 | 13:00  | - | - | - | *no activity* |  |
+| Thu 6 Jun 2024 | 14:30  | - | - | - | *no activity* |  |
+| - | - | - | - | - | **TEXT of first exam PUBLISHED** |  |
+| Mon 10 Jun 2024 | 10:00  | - | - | - | *no activity* |  |
+| Mon 10 Jun 2024 | 11:30  | - | - | - | *no activity* |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | Lab#15 group1: add authentication/authorization |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | Lab#15 group2: add authentication/authorization |  |
+| Thu 13 Jun 2024 | 13:00  | Lecture | 16 | EM | Design of the solution for a sample exam |  |
+| Thu 13 Jun 2024 | 14:30  | Lecture | 16 | EM | Design of the solution for a sample exam |  |
+
