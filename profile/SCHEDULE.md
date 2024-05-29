@@ -82,8 +82,8 @@ Check regularly for potential changes.
 | - | - | - | - | - | **The following part may be subject to change** |  |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Latest security considerations. Deployment(?) | |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Discussion of exam rules, wrap up. | |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | Lab#14 group1: add authentication |  |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | Lab#14 group2: add authentication |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#14 group1: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | [Lab#14 group2: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
 | Thu 6 Jun 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 6 Jun 2024 | 14:30  | - | - | - | *no activity* |  |
 | - | - | - | - | - | **TEXT of first exam PUBLISHED** |  |
