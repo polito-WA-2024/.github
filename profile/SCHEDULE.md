@@ -77,8 +77,8 @@ Check regularly for potential changes.
 | Mon 27 May 2024 | 11:30  | Lecture | R4 | EM  | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12) | Video [:arrow_forward:](https://youtu.be/A4ks_R1DCIo) |
 | Tue 28 May 2024 | 11:30  | Lab | 10i   | EM | [Lab#13 group1: complete client server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab13-complete-client-server.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab13-complete-client-server)) | |
 | Tue 28 May 2024 | 13:00  | Lab | 10i   | AS | [Lab#13 group2: complete client server](https://github.com/polito-WA-2024/materials/blob/main/labs/lab13-complete-client-server.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab13-complete-client-server))  | |
-| Thu 30 May 2024 | 13:00  | Lecture | 16 | EM  | [Authorization and JWT tokens.](https://github.com/polito-WA-2024/materials/blob/main/slide/4-07-Authorization-JWT.pdf) |  |
-| Thu 30 May 2024 | 14:30  | Lecture | 16 | EM | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12/react-qa-jwt) |  |
+| Thu 30 May 2024 | 13:00  | Lecture | 16 | EM  | [Authorization and JWT tokens.](https://github.com/polito-WA-2024/materials/blob/main/slide/4-07-Authorization-JWT.pdf) | Video [:arrow_forward:](https://youtu.be/nu2hJYj7oFw) |
+| Thu 30 May 2024 | 14:30  | Lecture | 16 | EM | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12/react-qa-jwt) | Video [:arrow_forward:](https://youtu.be/TJNxAF51ILw) |
 | - | - | - | - | - | **The following part may be subject to change** |  |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | [Auth security considerations](https://github.com/polito-WA-2024/materials/blob/main/slide/4-08-Auth-security.pdf). Deployment(?) | |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Discussion of exam rules, wrap up. | |
