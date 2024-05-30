@@ -80,7 +80,7 @@ Check regularly for potential changes.
 | Thu 30 May 2024 | 13:00  | Lecture | 16 | EM  | [Authorization and JWT tokens.](https://github.com/polito-WA-2024/materials/blob/main/slide/4-07-Authorization-JWT.pdf) |  |
 | Thu 30 May 2024 | 14:30  | Lecture | 16 | EM | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12/react-qa-jwt) |  |
 | - | - | - | - | - | **The following part may be subject to change** |  |
-| Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | [Last security considerations](https://github.com/polito-WA-2024/materials/blob/main/slide/4-08-Authentication_security.pdf). Deployment(?) | |
+| Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | [Auth security considerations](https://github.com/polito-WA-2024/materials/blob/main/slide/4-08-Auth-security.pdf). Deployment(?) | |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | Discussion of exam rules, wrap up. | |
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#14 group1: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | [Lab#14 group2: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
