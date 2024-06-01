@@ -24,7 +24,7 @@ Each student will be allocated a time slot for the discussion, that will take pl
 
 There will be 26 marks assigned to the project and 6 to the oral discussion.
 
-Since the exam is essentially the design of an application with rather generic specifications, it is not acceptable that the submitted solutions are excessively similar among them, which would indicate that the solution has not been developed autonomously. Similarity checks will be run after the deadline. In this case, the exam will be considered failed, and the students will be notified about the situation.
+Since the exam is essentially the design of an application with rather generic specifications, it is not acceptable that the submitted solutions are excessively similar among them, which would indicate that the solution has not been developed autonomously. **Similarity checks will be run after the deadline using an automated software**. In case of excessive similarity, after manual review by the teachers, the exam will be considered failed, and the students will be notified about the situation.
 
 #### Recommendations
 
