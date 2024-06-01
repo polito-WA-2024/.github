@@ -2,6 +2,16 @@
 
 Info about exams for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.
 
+## Exam instructions
+
+Some useful information while waiting for the exam:  
+
+[Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_common_instructions.pdf)
+
+[GitHub Classroom instructions](https://github.com/polito-WA-2024/.github/blob/main/profile/GH-Classroom-Instructions-WA-2024.pdf)
+
+[Most frequent errors and how to avoid them](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_Most_Frequent_Errors_v1.0.pdf)
+
 ## Sample exams
 
 This is the first year the course is activated. There are no examples of past exams for this course. However, you can get an idea of the type of projects by looking at a similar course: [Web Applications I](https://elite.polito.it/teaching/past-courses/2023-01txy-wa1-iz/exam) from MSc in Computer Engineering. More details about the exam will be given during lectures.
