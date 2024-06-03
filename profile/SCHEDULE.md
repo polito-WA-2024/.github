@@ -81,8 +81,8 @@ Check regularly for potential changes.
 | Thu 30 May 2024 | 14:30  | Lecture | 16 | EM | [Example](https://github.com/polito-WA-2024/aw-weeks/tree/main/week12/react-qa-jwt) | Video [:arrow_forward:](https://youtu.be/TJNxAF51ILw) |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | [Auth security considerations](https://github.com/polito-WA-2024/materials/blob/main/slide/4-08-Auth-security.pdf). | Video [:arrow_forward:](https://youtu.be/RXd-lh2pEIw) |
 | Mon 3 Jun 2024 | 10:00  | Lecture | R4 | EM  | [Deployment](https://github.com/polito-WA-2024/materials/blob/main/slide/4-09-Deployment.pdf). [GitHub example code.](https://github.com/polito-WA-2024/deployment) [Discussion of exam rules, wrap up.](https://github.com/polito-WA-2024/.github/blob/main/profile/EXAM.md) | Video [:arrow_forward:](https://youtu.be/XZj76BBkweE) |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#14 group1: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | [Lab#14 group2: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#14 group1: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) [Practice for exam submission](https://github.com/polito-WA-2024/materials/blob/main/labs/labPE-submission-practice.pdf) |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | [Lab#14 group2: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) [Practice for exam submission](https://github.com/polito-WA-2024/materials/blob/main/labs/labPE-submission-practice.pdf) |  |
 | Thu 6 Jun 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 6 Jun 2024 | 14:30  | - | - | - | *no activity* |  |
 | - | - | - | - | - | **TEXT of first exam PUBLISHED** |  |
