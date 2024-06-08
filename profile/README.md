@@ -5,7 +5,7 @@ Teachers: E. Masala, A. Servetti
 
 ## Course information
 
-[**Detailed schedule**](/profile/SCHEDULE.md), [**exam rules**](/profile/EXAM.md), official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUW&p_a_acc=2024&p_header=S&p_lang=EN&multi=N), [resources and software](/profile/RESOURCES.md), [**sample text of exams** (from another similar course)](https://elite.polito.it/teaching/past-courses/2023-01txy-wa1-iz/exam)
+[**Detailed schedule**](/profile/SCHEDULE.md), [**exams** and *rules*](/profile/EXAM.md), official [syllabus](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUW&p_a_acc=2024&p_header=S&p_lang=EN&multi=N), [resources and software](/profile/RESOURCES.md), [**sample text of exams** (from another similar course)](https://elite.polito.it/teaching/past-courses/2023-01txy-wa1-iz/exam)
 
 ## Available material and repositories specific to the course
 
