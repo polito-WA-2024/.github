@@ -9,9 +9,9 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - [GitHub Classroom instructions](https://github.com/polito-WA-2024/.github/blob/main/profile/GH-Classroom-Instructions-WA-2024.pdf)
   - [Most frequent errors and how to avoid them](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_Most_Frequent_Errors_v1.0.pdf)
     
-* Exam #1: .......... (deadline: Jun 30, 2024, 11:59pm)
+* [Exam #1: Ticketing system](https://docs.google.com/document/d/10BtpwfqA_vozQcmhLNQSK0DmmmAdqYcuIYAwb9cjpqQ/edit?usp=sharing) (deadline: Jun 30, 2024, 11:59pm)
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
-  - Link to accept the assignment and for submission (on GitHub Classroom): .........
+  - Link to accept the assignment and for submission (on GitHub Classroom): https://classroom.github.com/a/Y8bW3OQP
 
 ## Exam rules
 
