@@ -85,7 +85,7 @@ Check regularly for potential changes.
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | AS | [Lab#14 group2: add authentication](https://github.com/polito-WA-2024/materials/blob/main/labs/lab14-authentication.pdf) [Practice for exam submission](https://github.com/polito-WA-2024/materials/blob/main/labs/labPE-submission-practice.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab14-authentication)) |  |
 | Thu 6 Jun 2024 | 13:00  | - | - | - | *no activity* |  |
 | Thu 6 Jun 2024 | 14:30  | - | - | - | *no activity* |  |
-| - | - | - | - | - | **TEXT of first exam PUBLISHED** |  |
+| - | - | - | - | - | **TEXT of [first exam](https://github.com/polito-WA-2024/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
 | Mon 10 Jun 2024 | 10:00  | - | - | - | *no activity* |  |
 | Mon 10 Jun 2024 | 11:30  | - | - | - | *no activity* |  |
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group1: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) |  |
