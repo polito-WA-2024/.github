@@ -90,6 +90,6 @@ Check regularly for potential changes.
 | Mon 10 Jun 2024 | 11:30  | - | - | - | *no activity* |  |
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group1: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) |  |
 | Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group2: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) |  |
-| Thu 13 Jun 2024 | 13:00  | Lecture | 16 | EM | Design of the solution for a sample exam |  |
-| Thu 13 Jun 2024 | 14:30  | Lecture | 16 | EM | Design of the solution for a sample exam |  |
+| Thu 13 Jun 2024 | 13:00  | Lecture | 16 | EM | Design of the solution for a [sample exam](https://github.com/polito-WA-2024/aw-weeks/blob/main/week14/sample-exam/WA_SampleExam_StudyPlan.pdf) |  |
+| Thu 13 Jun 2024 | 14:30  | Lecture | 16 | EM | Design of the solution for a [sample exam](https://github.com/polito-WA-2024/aw-weeks/blob/main/week14/sample-exam/WA_SampleExam_StudyPlan.pdf) |  |
 
