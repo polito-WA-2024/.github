@@ -88,8 +88,8 @@ Check regularly for potential changes.
 | - | - | - | - | - | **TEXT of [first exam](https://github.com/polito-WA-2024/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
 | Mon 10 Jun 2024 | 10:00  | - | - | - | *no activity* |  |
 | Mon 10 Jun 2024 | 11:30  | - | - | - | *no activity* |  |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group1: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) |  |
-| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group2: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group1: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab15-authorization-jwt)) |  |
+| Tue 11 Jun 2024 | 11:30  | Lab | 10i   | EM | [Lab#15 group2: add authorization with JWT](https://github.com/polito-WA-2024/materials/blob/main/labs/lab15-authorization-jwt.pdf) ([Solution](https://github.com/polito-WA-2024/labs-code/tree/main/lab15-authorization-jwt)) |  |
 | Thu 13 Jun 2024 | 13:00  | Lecture | 16 | EM | Design of the [solution](https://github.com/polito-WA-2024/aw-weeks/tree/main/week14/sample-exam) for a [sample exam](https://github.com/polito-WA-2024/aw-weeks/blob/main/week14/WA_SampleExam_StudyPlan.pdf) |  |
 | Thu 13 Jun 2024 | 14:30  | Lecture | 16 | EM | Design of the [solution](https://github.com/polito-WA-2024/aw-weeks/tree/main/week14/sample-exam) for a [sample exam](https://github.com/polito-WA-2024/aw-weeks/blob/main/week14/WA_SampleExam_StudyPlan.pdf) |  |
 
