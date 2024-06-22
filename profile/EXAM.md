@@ -14,6 +14,10 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/Y8bW3OQP](https://classroom.github.com/a/Y8bW3OQP)
 
+* [Exam #2: Car configurator](https://docs.google.com/document/d/1qY6OGmhwf8AYwBY_1RFbs02uP_DBoArVgU3y9htmClo/edit?usp=sharing) (deadline: Jul 14, 2024, 11:59pm)
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
+  - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/Hg0Z37PI](https://classroom.github.com/a/Hg0Z37PI)
+
 ## Exam rules
 
 The exam consists of a web application project to be developed according to the specifications published 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
