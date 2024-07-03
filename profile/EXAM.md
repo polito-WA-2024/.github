@@ -15,6 +15,7 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/Y8bW3OQP](https://classroom.github.com/a/Y8bW3OQP)
 
 * [Exam #2: Car configurator](https://docs.google.com/document/d/1qY6OGmhwf8AYwBY_1RFbs02uP_DBoArVgU3y9htmClo/edit?usp=sharing) (deadline: Jul 14, 2024, 11:59pm)
+  - Document with all [comments and corresponding answers](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_exam2_car_configurator__comments.pdf) added on the google doc.
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/Hg0Z37PI](https://classroom.github.com/a/Hg0Z37PI)
 
