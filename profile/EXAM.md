@@ -5,7 +5,7 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
 ## Exam
 
 * General information and instructions:    
-  - [Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_common_instructions.pdf)
+  - [Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_common_instructions_v2.pdf)
   - [GitHub Classroom instructions](https://github.com/polito-WA-2024/.github/blob/main/profile/GH-Classroom-Instructions-WA-2024.pdf)
   - [Most frequent errors and how to avoid them](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_Most_Frequent_Errors_v1.0.pdf)
     
@@ -18,6 +18,11 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - Document with all [comments and corresponding answers](https://github.com/polito-WA-2024/.github/blob/main/profile/WA_exam2_car_configurator__comments.pdf) added on the google doc.
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/Hg0Z37PI](https://classroom.github.com/a/Hg0Z37PI)
+
+* [Exam #3: Concert seats]() (deadline: Sep 15, 2024, 11:59pm)
+  - In this phase, please comment on the google doc to ask questions.
+  - Later, for doubts and questions about the text, write on the specific topic on the telegram channel of the course.
+  - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/XYY1fduM](https://classroom.github.com/a/XYY1fduM)
 
 ## Exam rules
 
