@@ -24,6 +24,10 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - Later, for doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/XYY1fduM](https://classroom.github.com/a/XYY1fduM)
 
+* [Exam #4: Grid Forms](https://docs.google.com/document/d/1e3YecqDO7tzXJ7OchRB6yDVL5w4qFW0Kd74B2SPyh5I/edit?usp=sharing) (deadline: Jan 23, 2025, 11:59pm)
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
+  - Link to accept the assignment and for submission (on GitHub Classroom): [https://classroom.github.com/a/RemxYlak](https://classroom.github.com/a/RemxYlak)
+
 ## Exam rules
 
 The exam consists of a web application project to be developed according to the specifications published 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
